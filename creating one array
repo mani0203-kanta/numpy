@@ -1,0 +1,7 @@
+import numpy as np
+s=np.ones([2,3])
+print(s)
+
+output:
+[[1. 1. 1.]
+ [1. 1. 1.]]
