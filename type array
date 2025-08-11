@@ -1,0 +1,9 @@
+import numpy as np
+s=np.array(42)
+s1=np.array([1,2,3])
+print(type(s))
+print(type(s1))
+
+output:
+<class 'numpy.ndarray'>
+<class 'numpy.ndarray'>
