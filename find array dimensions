@@ -1,0 +1,15 @@
+import numpy as np
+s1=np.array(42)
+s2=np.array([1,2,3])
+s3=np.array([[1,2,3],[4,5,6]])
+s4=np.array([[[1,2,3],[4,5,6]],[[1,2,3],[4,5,6]]])
+print(s1.ndim)
+print(s2.ndim)
+print(s3.ndim)
+print(s4.ndim)
+
+output:
+0
+1
+2
+3
