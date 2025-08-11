@@ -1,0 +1,6 @@
+import numpy as np
+s=np.array(42)
+print(s)
+
+output:
+42
