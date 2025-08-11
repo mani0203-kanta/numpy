@@ -1,0 +1,7 @@
+import numpy as np
+s1=np.full([2,3],7,dtype=int)
+print(s1)
+
+output:
+[[7 7 7]
+ [7 7 7]]
