@@ -1,0 +1,6 @@
+import numpy as np
+s=np.__version__
+print(s)
+
+output:
+2.0.1
