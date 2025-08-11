@@ -1,0 +1,6 @@
+import numpy as np
+s=np.array([1,2,3,4])
+print(s.dtype)
+
+output:
+int64
