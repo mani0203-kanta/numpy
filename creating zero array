@@ -1,0 +1,7 @@
+import numpy as np
+s=np.zeros([2,3],dtype=int)
+print(s)
+
+output:
+[[0 0 0]
+ [0 0 0]]
